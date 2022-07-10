@@ -1,0 +1,27 @@
+#name {
+    font-family: cursive;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: olive;
+    opacity: 0.5;
+}
+
+.about {
+    font-family: "Segoe UI";
+}
+
+h1 {
+    color: olive;
+}
+
+li:hover {
+    color: olive;
+}
+h4.about {
+    color: pink;
+}
+
+th, td {
+    padding: 10px;
+    background-color:none;
+}

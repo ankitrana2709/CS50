@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sort ran fastest on sorted lists and slowest on random lists which cited over to
+                  their difference between best case and worst case scenario.
+
+sort2 uses: Merge Sort
+
+How do you know?: Sort ran faster than both of the other sorts and difference was clearly visible as numbers in a list increased.
+                  Worst case and Best case results did not have huge difference which proved usage of theta instead of BigO or Omega.
+
+sort3 uses: Selection Sort
+
+How do you know?: Sort ran slower than the merge sort and resulted in similar answers with different arrangements. Which was also shown as
+                  Worst case and Best case results did not have huge difference which further proved usage of theta instead of BigO or Omega.
